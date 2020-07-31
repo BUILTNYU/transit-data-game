@@ -4,6 +4,6 @@ This repository contains materials of our studies on transit data sharing games,
 ## Related studies
 > Liu, Q. and Chow, J. A Non-Cooperative Game Approach for Modelling Traffic Data Sharing. (TBD). 2020
 
-## contributors
+## Contributors
 Qi Liu, ql375@nyu.edu
 Joseph Chow, joseph.chow@nyu.edu
